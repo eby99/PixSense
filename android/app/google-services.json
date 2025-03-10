@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67705534223",
+    "project_id": "pixsense-eca71",
+    "storage_bucket": "pixsense-eca71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67705534223:android:42fb62a4c5b576286eb07a",
+        "android_client_info": {
+          "package_name": "com.example.pixsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DEaVg81BCK5QC3vSV0jwe70ACMtTD-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
